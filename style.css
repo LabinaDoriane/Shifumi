@@ -1,0 +1,23 @@
+body {background-color: #bfdcae;
+       font-family: 'Vast Shadow', cursive;  }
+
+.titre {
+       border-bottom: solid black 4px;
+        background-color: #519872;
+       height: 80px;}
+
+.rond {
+       border-radius: 50%; 
+        height: 40px; width: 40px;
+         background-color: gray;
+       }
+
+.rond2 {
+            border-radius: 50%; 
+             height: 40px; width: 40px;
+              background-color: gray;}  
+              
+.bouton {
+       border-top: solid black 4px;
+       background-color: #519872;
+       }              
